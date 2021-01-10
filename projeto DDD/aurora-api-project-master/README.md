@@ -1,4 +1,4 @@
-! [Aurora Project] (https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
+[Aurora Project] (https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
 
 # O que é o projeto Aurora?
 É um projeto de código aberto, escrito em .NET Core, atualmente na versão 3.1.
